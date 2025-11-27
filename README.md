@@ -123,29 +123,15 @@ I enjoy building ML models, dashboards, automation scripts, and analytics-based 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/...">
+  <a href="https://www.linkedin.com/in/arun-kumar-m-0784b4259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="35" />
   </a>
-  <a href="mailto:xyz@gmail.com">
+  <a href="marunkumar.ak19@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail--v1.png" width="35" />
   </a>
 </p>
 
 ---
-<!-- ===================================================== -->
-<!-- 🔥 FEATURED 3D IMAGE -->
-<!-- ===================================================== -->
-
-<p align="center">
-  <img src="https://github.com/ArunKumar19-AK/ArunKumar19-AK/blob/main/Gemini_Generated_Image_oufp4poufp4poufp.png" alt="3D Data Science & Cricket Analytics" width="100%" />
-</p>
-
----
-
-<p align="center">
-  ✨ Data Science meets Cricket Analytics in a futuristic 3D visualization ✨
-</p>
-
 
 <!-- ===================================================== -->
 <!-- 👀 PROFILE VIEWS -->
